@@ -1,11 +1,19 @@
-# FullStackProject
-Requirements
+# fullstackproject
 
--Vue CLI @vue/cli 5.0.8
--Nodejs v10+
+## Project setup
+```
+npm install
+```
 
-cd fullstackproject
-
-run project in VScode:
+### Compiles and hot-reloads for development
+```
 npm run serve
-	
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
