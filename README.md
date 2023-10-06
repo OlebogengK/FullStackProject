@@ -17,3 +17,7 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#Requirements
+--Vue CLI : @vue/cli 5.0.8
+---Nodejs v10+
